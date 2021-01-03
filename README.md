@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with ... Probability Strategy
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... You Can't
-- 😄 Pronouns: ... Dude
+- 😄 Pronouns: ... Hey/Hi
 - ⚡ Fun fact: ... Coding is hard but life is more hard
 -->

@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Software Developer
 - 🌱 I’m currently learning ... Python, Vue.js
 - 👯 I’m looking to collaborate on ...  Probabilty 
